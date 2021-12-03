@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+numba
+notebook
+jupyterlab
+plotly
+seaborn
+isort
+black
+flake8
+pre-commit
+pytest
+coverage
+sphinx_rtd_theme
+sphinx-autoapi
